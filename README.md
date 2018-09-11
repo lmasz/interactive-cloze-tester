@@ -64,5 +64,4 @@ https://github.com/lmasz
 This work is part of an ongoing research project at the University of Maryland. Please contact Elissa Redmiles (eredmiles@cs.umd.edu) or Michelle Mazurek (mmazurek@cs.umd.edu) with questions / concerns.
 
 ## Citation
-If you use this work in any projects or research, be sure to cite my github or the official University of Maryland page: (TODO) https://github.com/
-
+If you use this work in any projects or research, be sure to cite my github or the official University of Maryland page: https://github.com/SP2atMC2
